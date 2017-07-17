@@ -1,5 +1,4 @@
 Name: Bazyr Tutugov
 Project Goal: Master Git!
 Favorite TV Show: PrisonBreak
-1)42de6a2f9ed5542542a0a9bba07cb1c3dc3b2ae2
-2)42de6a2f9ed5542542a0a9bba07cb1c3dc3b2ae22
+1)3bfcda3ba8de1e530e9a838ab9da9196ebecabc7
